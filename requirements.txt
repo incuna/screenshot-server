@@ -1,0 +1,3 @@
+Flask==0.8
+gunicorn==0.13.4
+envoy==0.0.2
